@@ -1,4 +1,4 @@
-Building Bitcoin
+Building Npay
 ================
 
 See doc/build-*.md for instructions on building the various
